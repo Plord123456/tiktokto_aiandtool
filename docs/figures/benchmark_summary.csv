@@ -1,4 +1,0 @@
-ai_x,ai_o,n_games,x_wins,o_wins,draws,total_nodes,avg_nodes_per_game,total_time_ms,avg_time_ms_per_game,wall_seconds
-minimax,alpha_beta,3,0,0,3,1324278,441426,45207.71,15069.24,45.21
-minimax,heuristic_h2,3,0,0,3,1309314,436438,45152.62,15050.87,45.15
-alpha_beta,heuristic_h2,3,0,0,3,31761,10587,1748.25,582.75,1.75
