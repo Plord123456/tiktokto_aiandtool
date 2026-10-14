@@ -10,3 +10,7 @@ docs/figures/search_tree_minimax/
 
 # Reference PDFs (tài liệu tham khảo, không phải source)
 *.pdf
+
+# Legacy file từ đề 1 (không dùng trong đề 6)
+/TikTakToe (1).py
+
